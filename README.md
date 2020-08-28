@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tear94fall&show_icons=true)](https://github.com/tear94fall)
 
 <!--
 **tear94fall/tear94fall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
