@@ -18,6 +18,10 @@ Real-time growing Developer! 👻
 | OS | ![MacOS](https://img.shields.io/badge/-mac%20os-000000?style=flat-square&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | Tool | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)	![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white) ![Github](http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white) |
 
+# Experience 💪
+
+토스 Learner's High 서버 1기
+
 # My Interests ⭐
 
 * Backend Software Engineering
