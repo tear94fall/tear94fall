@@ -20,7 +20,7 @@ Real-time growing Developer! 👻
 
 # Experience 💪
 
-토스 Learner's High 서버 1기
+* 토스 Learner's High 서버 1기
 
 # My Interests ⭐
 
