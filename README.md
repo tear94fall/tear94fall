@@ -10,7 +10,7 @@ Backend Software Engineer! 🧑‍💻
 
 | Company | Position | Date |
 |:---:|:---:|:---:|
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtPV-rOLEu4eFhHPkWWQbgfG-FSgTyXketfQ&s" height="20"/> | Server Developer | 2025.07 ~ ing |
+| <img src="https://daoift3qrrnil.cloudfront.net/employment_companies/images/000/085/300/original/logo-toss.png?1688469352" height="20"/> | Server Developer | 2025.07 ~ ing |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/AhnLab.png" height="20"/> | Backend Software Engineer | 2021.04 ~ 2025.07 |
 | <img src="https://www.jiransnc.com/public/images/layout/logo.svg" height="20"/> | Software Engineer | 2019.12 ~ 2021.04 |
 | <img src="https://www.kjebi.com/web/corpLogoFile/ops/306488/NO/Clogo_CTYPE_resize_CID_5148154945_CNAME_NETMAN_CLANG_NO_CSIZE_608X179.png" height="20"/> | Software Egnineer Internship | 2019.09 ~ 2019.12 |
