@@ -10,10 +10,11 @@ Backend Software Engineer! 🧑‍💻
 
 | Company | Position | Date |
 |:---:|:---:|:---:|
-| <img src="https://daoift3qrrnil.cloudfront.net/employment_companies/images/000/085/300/original/logo-toss.png?1688469352" height="20"/> | Server Developer | 2025.07 ~ ing |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Olive_Young_Logo.svg/960px-Olive_Young_Logo.svg.png" height="20"/> | Backend Software Engineer | 2025.07 ~ ing |
+| <img src="https://daoift3qrrnil.cloudfront.net/employment_companies/images/000/085/300/original/logo-toss.png?1688469352" height="20"/> | Server Developer | 2025.07 ~ 2026.05 |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/AhnLab.png" height="20"/> | Backend Software Engineer | 2021.04 ~ 2025.07 |
 | <img src="https://www.jiransnc.com/public/images/layout/logo.svg" height="20"/> | Software Engineer | 2019.12 ~ 2021.04 |
-| <img src="https://www.kjebi.com/web/corpLogoFile/ops/306488/NO/Clogo_CTYPE_resize_CID_5148154945_CNAME_NETMAN_CLANG_NO_CSIZE_608X179.png" height="20"/> | Software Egnineer Internship | 2019.09 ~ 2019.12 |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Netman_CI%282%29.png" height="20"/> | Software Egnineer Internship | 2019.09 ~ 2019.12 |
 
 # My Skill 👍
 
