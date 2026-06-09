@@ -10,7 +10,7 @@ Backend Software Engineer! 🧑‍💻
 
 | Company | Position | Date |
 |:---:|:---:|:---:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Olive_Young_Logo.svg/960px-Olive_Young_Logo.svg.png" height="20"/> | Backend Software Engineer | 2025.07 ~ ing |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Olive_Young_Logo.svg/960px-Olive_Young_Logo.svg.png" height="20"/> | Backend Software Engineer | 2025.05 ~ ing |
 | <img src="https://daoift3qrrnil.cloudfront.net/employment_companies/images/000/085/300/original/logo-toss.png?1688469352" height="20"/> | Server Developer | 2025.07 ~ 2026.05 |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/AhnLab.png" height="20"/> | Backend Software Engineer | 2021.04 ~ 2025.07 |
 | <img src="https://www.jiransnc.com/public/images/layout/logo.svg" height="20"/> | Software Engineer | 2019.12 ~ 2021.04 |
