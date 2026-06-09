@@ -27,10 +27,6 @@ Backend Software Engineer! 🧑‍💻
 | OS | ![MacOS](https://img.shields.io/badge/-mac%20os-000000?style=flat-square&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | Tool | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)	![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white) ![Github](http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white) |
 
-# Experience 💪
-
-* 토스 Learner's High 서버 1기
-
 # My Interests ⭐
 
 * Backend Software Engineering
@@ -39,12 +35,6 @@ Backend Software Engineer! 🧑‍💻
 * Software Architecture
 * Improving Legacy System and Codes
 
-# Content 📘
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tear94fall&show_icons=true)](https://github.com/tear94fall)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tear94fall&hide=css,html,hack,Makefile&layout=compact&langs_count=8)](https://github.com/tear94fall/github-readme-stats)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer)
 <!--
 **tear94fall/tear94fall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
